@@ -23,7 +23,24 @@ cp bash.bashrc $PREFIX/etc
 
 ```
 
+
+Después de clonar el repositorio 
+<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/zvCrTk58/Screenshot-20221210-194141.jpg" alt="Screenshot-20221210-194141"/></a><br/><br/>
+
+vamos a la carpeta bash.bashrc/
+
+<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/V6b1k8VS/Screenshot-20221210-194211.jpg" alt="Screenshot-20221210-194211"/></a><br/><br/>
+Después con tu editor preferido en este caso utilice nano editamos el archivo con 
+nano bash.bashrc 
+
+<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/sf7sF3Wq/Screenshot-20221210-194629.jpg" alt="Screenshot-20221210-194629"/></a><br/><br/>
+y reemplazamos la palabra kali por la distribución que están disponibles a continuación :
+<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/x8DQk4w6/Screenshot-20221210-194645.jpg" alt="Screenshot-20221210-194645"/></a><br/><br/>
+
+
+
 # CONFIGURACIÓN
+
 
 
 a continuación dejo el listado de logotipos de
