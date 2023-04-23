@@ -20,10 +20,3 @@ Si Estas en Linux ve a la carpeta de contenedora del archivo y muevela a :
 sudo mv bash.bashrc /etc/
 
 
-
-
-
-
-
-
-
