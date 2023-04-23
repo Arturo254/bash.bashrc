@@ -2,7 +2,8 @@
 Archivo de configuración para Termux  
 Este archivo debe ser movido a la carpeta /etc/ 
 
-En Termux : 
+### En Termux : 
+
 Dentro de la carpeta que contiene el archivo de configuración (bash.bashrc)
 ```
 mv bash.bashrc $PREFIX/etc/ 
@@ -12,7 +13,17 @@ mv bash.bashrc $PREFIX/etc/
 
 
 
-LINUX :
+# PRE REQUISITOS 
+
+<li>neofetch 
+<li>lolcat 
+<li>figlet 
+<li>figlet fonts
+
+</li>
+
+
+### LINUX :
 
 Si Estas en Linux ve a la carpeta de contenedora del archivo y muevela a :
 
