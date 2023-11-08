@@ -1,9 +1,9 @@
 # bash.bashrc
 
-*Archivo de configuración para Termux.
+*Archivo de configuración para Termux.*
 
 
-Este archivo debe ser movido a la carpeta /etc/*
+*Este archivo debe ser movido a la carpeta /etc/*
 
 # Previsualización:
 
