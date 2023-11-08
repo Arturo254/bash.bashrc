@@ -1,17 +1,23 @@
 # bash.bashrc
-Archivo de configuración para Termux  
-Este archivo debe ser movido a la carpeta /etc/ 
 
-### En Termux : 
+*Archivo de configuración para Termux.
 
-Dentro de la carpeta que contiene el archivo de configuración (bash.bashrc)
+
+Este archivo debe ser movido a la carpeta /etc/*
+
+# Previsualización:
+
+![20231107_205847_0000](https://github.com/Arturo254/bash.bashrc/assets/87346871/661c979b-cdba-44e1-9e90-32a6b4174de3)
+
+
+
+### Termux : 
+
+Dentro de la carpeta que contiene el archivo de configuración (bash.bashrc) ejecuta el siguiente comando:
 ```
+rm -f $PREFIX/etc/bash.bashrc &&
 mv bash.bashrc $PREFIX/etc/ 
 ```
-### Ejemplo :
-![Picsart_23-04-23_08-16-21-675](https://user-images.githubusercontent.com/87346871/233845288-abad3697-7704-44ae-a61a-8cbc7b95fdad.png)
-
-
 
 # PRE REQUISITOS 
 
@@ -19,7 +25,6 @@ mv bash.bashrc $PREFIX/etc/
 <li>lolcat 
 <li>figlet 
 <li>figlet fonts
-
 </li>
 
 
