@@ -34,5 +34,14 @@ Si Estas en Linux ve a la carpeta de contenedora del archivo y muevela a :
 
 ```
 sudo mv bash.bashrc /etc/
+```
 
+## INSTRUCCIONES:
+
+```bash
+git clone https://github.com/Arturo254/bash.bashrc
+
+cd bash.bashrc
+```
+*Despues ejecutar el comando segun tu Distribución*
 
