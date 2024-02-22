@@ -7,7 +7,9 @@
 
 # Previsualización:
 
-![20231107_205847_0000](https://github.com/Arturo254/bash.bashrc/assets/87346871/661c979b-cdba-44e1-9e90-32a6b4174de3)
+![620shots_so](https://github.com/Arturo254/bash.bashrc/assets/87346871/4c36a77a-049c-46bd-a112-c40f27b8d572)
+
+
 
 
 
@@ -19,6 +21,15 @@ rm -f $PREFIX/etc/bash.bashrc &&
 mv bash.bashrc $PREFIX/etc/ 
 ```
 
+
+### LINUX :
+
+Si Estas en Linux ve a la carpeta de contenedora del archivo y muevela a :
+
+```
+sudo mv bash.bashrc /etc/
+```
+
 # PRE REQUISITOS 
 
 <li>neofetch 
@@ -28,13 +39,6 @@ mv bash.bashrc $PREFIX/etc/
 </li>
 
 
-### LINUX :
-
-Si Estas en Linux ve a la carpeta de contenedora del archivo y muevela a :
-
-```
-sudo mv bash.bashrc /etc/
-```
 
 ## INSTRUCCIONES:
 
